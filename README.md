@@ -4,3 +4,8 @@ This project will demonstrate my ability to correctly use git, build a website w
 
 
 Started 17/11/24
+
+
+This project has later been updated to include a stylesheet.
+
+Edited 02/12/24
