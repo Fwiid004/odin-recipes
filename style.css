@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.ingredients {
+    font-weight: 800;
+} 
